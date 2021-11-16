@@ -1,0 +1,79 @@
+intro:
+You are sitting in your dark, cold and damp basement. You \
+can hear the soft pattering of rain and the clicks of your keyboard keys. \
+Staring into the screen, you close your social media tabs, close a kind-of \
+sketchy website called BuyThis, all the games you downloaded and finally your \
+hacking platform.\n\nJust as you were about to Google "Funny Memes" to finish \
+off your night when suddenly an ad flashes onto your screen. This is what you \
+have been looking for your whole life- Gumanji, the game where the best of the \
+best gamers battle it out for the ultimate glory. You\'ve never seen a single \
+picture, review or anything about this game other that its name and how hard \
+it is to come across. Engulfed by happiness, you immediately click on the \
+screen.\n\nSuddenly your screen brightens, the basement starts to shake, your \
+cat shrieks and runs away and your body seems to be dissolving into the \
+computer screen...
+
+casey's room:
+You\'re lying on the floor, your stomach feels sick and \
+your vision is blurry. As you stand up, you feel normal again. You look up \
+and notice 3 hearts above your head. What is this and where am I? It feels \
+like something out of a video game. As your eyes unblur, you notice you are \
+in your year 7 coding classroom. This is where it all began. Your love of \
+computers, coding and a little hacking. You notice ther are only 2 people in \
+the class. It's your year 7 coding teacher, Miss Wack, and a student who looks \
+like one of your old classmates, Billy. At the exact same time (which is a \
+little creepy), they say, "Talk to me..."\n\nWho do you talk to? (Use "r" for \
+Miss Rack or "b" for Billy) 
+
+yash's room:
+You step into a dark, gloomy room with only one dull light hanging from the \
+ceiling. You notice that you now have 3 hearts above your head again. As you \
+start to look around, you see lots of blobs floating mysteriously in the air. \
+They are an unusual green and yellow in colour and their shape feels familiar. \
+However, you can't identify what they are. You get goosebumps on your arms and \
+start to feel scared, so you slowly tremble towards the door on the other side \
+of the room. Ah yes- you think tp youself, those blobs are infact viruses! \
+Standing in awe of these mysterious viruses, you realise that the viruses are \
+slowly floating towards you. You try to run away, but your legs are frozen to \
+the floor. Suddenly, one of the viruses has inched itself closer towards you, \
+almost at eye level, and it asks you a question in a glitchy, sniffly voice.
+
+kadie's room:
+You slide out of the tunnel, dazed and confused. To your left, you see a \
+lantern and to your right, a long, dark corridor awaits you.\nGo left or right?
+left-
+You grab the lantern, it suddenly lights- scaring you. You look around only to \
+see the room is made from cold, dark walls, unlike the other interesting \
+levels you have passed. You have noticed that you have reached a dead end. \
+Your only choice now is to head right, down the dark corridoor.
+right-
+You stumble around aimlessly through the dark corridor, but turn back to fetch \
+the lantern, regretting your decision of not grabbing it before. When you pick \
+up the lantern, it suddenly lights- scaring you. You look around only to see \
+the room is made from cold, dark walls, unlike the other interesting levels \
+you have passed. You have noticed that you have reached a dead end. Your only \
+choice now is to head right, down the dark corridor.
+continue-
+Your lantern illuminates the corridor, revealing wires lining the roof. \
+Confused, you continue until you stumble onto something- maybe a wire, until \
+suddenly, the wires on top of the roof start to illuminate- revealing neon \
+lights that will guide you through the tunnel.\n\nWhen you reach the end of \
+the tunnel, you come to another dark room- you reach for you lantern, but it \
+won't turn on and suddenly, it disappears into thin air. Standing in the dark, \
+you carefully and slowly walk forward, reaching out to ensure you don't crash \
+in to anything.\nDo you want to look for a light switch or walk around the \
+room? (Use "l" for light switch or use "w" for walk around room)
+light switch-
+You travel alongside the edge of the room, feeling the wall in search for a \
+light switch. When you get back to the doorway where you entered, you \
+discovered there is no light switch. Your only choice now is to look around \
+the room.
+look around room-
+You walk around slowly, with outstretched arms, until suddenly, you feel \
+something in the middle of the room. It feels like a pedestal with a large \
+button on top.\n\nYou decide to press the button but when you pressed it, \
+large, bright rectangles appear to be floating in the air. No, that can't be \
+right- you think to yourself, and blink several times in confusion, allowing \
+your eyes to adjust. When everything is clearer, you realise the floating \
+rectangles are your posts, searches, passwords and your...PERSONAL INFORMATION\
+!?!?!?!

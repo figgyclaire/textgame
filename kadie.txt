@@ -1,0 +1,39 @@
+You slide out of the tunnel, dazed and confused. To your left, you see a lantern
+and to your right, a long, dark corridor awaits you.
+Go left or right?
+left-
+You grab the lantern, it suddenly lights- scaring you. You look around only to \
+see the room is made from cold, dark walls, unlike the other interesting \
+levels you have passed. You have noticed that you have reached a dead end. \
+Your only choice now is to head right, down the dark corridoor.
+right-
+You stumble around aimlessly through the dark corridor, but turn back to fetch \
+the lantern, regretting your decision of not grabbing it before. When you pick \
+up the lantern, it suddenly lights- scaring you. You look around only to see \
+the room is made from cold, dark walls, unlike the other interesting levels \
+you have passed. You have noticed that you have reached a dead end. Your only \
+choice now is to head right, down the dark corridor.
+continue-
+Your lantern illuminates the corridor, revealing wires lining the roof. \
+Confused, you continue until you stumble onto something- maybe a wire, until \
+suddenly, the wires on top of the roof start to illuminate- revealing neon \
+lights that will guide you through the tunnel.\n\nWhen you reach the end of \
+the tunnel, you come to another dark room- you reach for you lantern, but it \
+won't turn on and suddenly, it disappears into thin air. Standing in the dark, \
+you carefully and slowly walk forward, reaching out to ensure you don't crash \
+in to anything.\nDo you want to look for a light switch or walk around the \
+room? (Use "l" for light switch or use "w" for walk around room)
+light switch-
+You travel alongside the edge of the room, feeling the wall in search for a \
+light switch. When you get back to the doorway where you entered, you \
+discovered there is no light switch. Your only choice now is to look around \
+the room.
+look around room-
+You walk around slowly, with outstretched arms, until suddenly, you feel \
+something in the middle of the room. It feels like a pedestal with a large \
+button on top.\n\nYou decide to press the button but when you pressed it, \
+large, bright rectangles appear to be floating in the air. No, that can't be \
+right- you think to yourself, and blink several times in confusion, allowing \
+your eyes to adjust. When everything is clearer, you realise the floating \
+rectangles are your posts, searches, passwords and your...PERSONAL INFORMATION\
+!?!?!?!
